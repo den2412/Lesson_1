@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b95dc4e3-8b6e-4e29-9b64-086a46ed3f25" name="Changes" comment="">
+    <list default="true" id="b95dc4e3-8b6e-4e29-9b64-086a46ed3f25" name="Changes" comment="First work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Lesson_1_First" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Second">
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First" />
       <module name="Lesson_1" />
@@ -50,8 +50,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second" />
+      <module name="Lesson_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.First" />
         <item itemvalue="Application.First" />
       </list>
     </recent_temporary>
@@ -65,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661767787760</updated>
     </task>
+    <task id="LOCAL-00001" summary="First work">
+      <created>1661769622090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661769622090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First work" />
+    <option name="LAST_COMMIT_MESSAGE" value="First work" />
   </component>
 </project>
